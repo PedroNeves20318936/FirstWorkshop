@@ -1,5 +1,3 @@
-et, which I cloned before adding the .gitignore.
-
 # For CMake projects - ignore all generated build files.
 /build/*
 
